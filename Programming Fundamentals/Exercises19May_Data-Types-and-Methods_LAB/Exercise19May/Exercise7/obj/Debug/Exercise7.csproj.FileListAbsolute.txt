@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercise7\obj\Debug\Exercise7.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercise7\obj\Debug\Exercise7.pdb

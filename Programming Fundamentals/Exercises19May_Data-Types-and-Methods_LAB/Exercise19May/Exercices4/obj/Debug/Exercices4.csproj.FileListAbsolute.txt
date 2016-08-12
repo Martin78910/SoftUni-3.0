@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\bin\Debug\Exercices4.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\bin\Debug\Exercices4.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\bin\Debug\Exercices4.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\obj\Debug\Exercices4.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\obj\Debug\Exercices4.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices4\obj\Debug\Exercices4.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May_Data-Types-and-Methods_LAB\Exercise19May\Exercices4\bin\Debug\Exercices4.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May_Data-Types-and-Methods_LAB\Exercise19May\Exercices4\obj\Debug\Exercices4.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May_Data-Types-and-Methods_LAB\Exercise19May\Exercices4\obj\Debug\Exercices4.pdb

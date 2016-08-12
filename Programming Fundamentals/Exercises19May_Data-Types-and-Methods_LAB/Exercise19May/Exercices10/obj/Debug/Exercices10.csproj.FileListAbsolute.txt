@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\bin\Debug\Exercices10.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\obj\Debug\Exercices10.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\bin\Debug\Exercices10.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\bin\Debug\Exercices10.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\obj\Debug\Exercices10.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises19May\Exercise19May\Exercices10\obj\Debug\Exercices10.pdb
