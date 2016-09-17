@@ -1,0 +1,1 @@
+SELECT SUM (Id) as Sum_Ids from [Blog].[dbo].[Tags]

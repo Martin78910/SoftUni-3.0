@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\6. Rectangle Position\bin\Debug\_6.Rectangle_Position.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\6. Rectangle Position\obj\Debug\_6.Rectangle_Position.pdb

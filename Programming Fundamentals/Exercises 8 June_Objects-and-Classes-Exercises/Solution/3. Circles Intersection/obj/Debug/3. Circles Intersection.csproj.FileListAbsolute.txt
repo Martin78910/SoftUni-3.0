@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\3. Circles Intersection\bin\Debug\_3.Circles_Intersection.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\3. Circles Intersection\bin\Debug\_3.Circles_Intersection.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\3. Circles Intersection\bin\Debug\_3.Circles_Intersection.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\3. Circles Intersection\obj\Debug\_3.Circles_Intersection.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\3. Circles Intersection\obj\Debug\_3.Circles_Intersection.pdb

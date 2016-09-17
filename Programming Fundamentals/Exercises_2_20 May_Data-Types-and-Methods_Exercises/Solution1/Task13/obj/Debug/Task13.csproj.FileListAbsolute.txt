@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\bin\Debug\Task13.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\bin\Debug\Task13.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\bin\Debug\Task13.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\obj\Debug\Task13.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\obj\Debug\Task13.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task13\obj\Debug\Task13.pdb

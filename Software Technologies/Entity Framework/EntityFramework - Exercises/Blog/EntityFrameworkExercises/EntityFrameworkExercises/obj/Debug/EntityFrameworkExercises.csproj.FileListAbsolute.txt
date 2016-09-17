@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.exe.config
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.exe
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFrameworkExercises.pdb
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.exe
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\EntityFramework - Exercises\Blog\EntityFrameworkExercises\EntityFrameworkExercises\obj\Debug\EntityFrameworkExercises.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\4. Distance Between Points\bin\Debug\_4.Distance_Between_Points.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\4. Distance Between Points\obj\Debug\_4.Distance_Between_Points.pdb

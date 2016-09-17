@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseOne\obj\Debug\ExerciseOne.pdb

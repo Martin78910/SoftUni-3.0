@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises - 2 June-Strings-Dictionaries-Lambda-and-LINQ-LAB\Solution_StringsLab\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises - 2 June-Strings-Dictionaries-Lambda-and-LINQ-LAB\Solution_StringsLab\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises - 2 June-Strings-Dictionaries-Lambda-and-LINQ-LAB\Solution_StringsLab\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises - 2 June-Strings-Dictionaries-Lambda-and-LINQ-LAB\Solution_StringsLab\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises - 2 June-Strings-Dictionaries-Lambda-and-LINQ-LAB\Solution_StringsLab\Exercise9\obj\Debug\Exercise9.pdb

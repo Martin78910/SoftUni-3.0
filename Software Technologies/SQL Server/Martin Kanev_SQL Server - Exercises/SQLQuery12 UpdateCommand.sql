@@ -1,0 +1,1 @@
+UPDATE [Blog].[dbo].[Posts] SET Title ='New Title' WHERE Id =31

@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\bin\Debug\Task24.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\bin\Debug\Task24.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\bin\Debug\Task24.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\obj\Debug\Task24.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\obj\Debug\Task24.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task24\obj\Debug\Task24.pdb

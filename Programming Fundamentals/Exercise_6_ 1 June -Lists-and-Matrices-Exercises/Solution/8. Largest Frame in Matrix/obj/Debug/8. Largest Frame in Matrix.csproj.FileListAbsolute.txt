@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\8. Largest Frame in Matrix\bin\Debug\_8.Largest_Frame_in_Matrix.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\8. Largest Frame in Matrix\bin\Debug\_8.Largest_Frame_in_Matrix.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\8. Largest Frame in Matrix\bin\Debug\_8.Largest_Frame_in_Matrix.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\8. Largest Frame in Matrix\obj\Debug\_8.Largest_Frame_in_Matrix.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\8. Largest Frame in Matrix\obj\Debug\_8.Largest_Frame_in_Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\13. Tour\bin\Debug\_13.Tour.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\13. Tour\bin\Debug\_13.Tour.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\13. Tour\bin\Debug\_13.Tour.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\13. Tour\obj\Debug\_13.Tour.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\13. Tour\obj\Debug\_13.Tour.pdb

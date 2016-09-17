@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\bin\Debug\Task2.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\bin\Debug\Task2.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\obj\Debug\Task2.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\obj\Debug\Task2.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_3 _26 May_Arrays_LAB\Solution1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache

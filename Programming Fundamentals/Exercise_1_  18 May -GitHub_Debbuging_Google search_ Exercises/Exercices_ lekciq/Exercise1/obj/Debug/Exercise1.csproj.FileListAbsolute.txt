@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache

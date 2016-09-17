@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\bin\Debug\Task12.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\bin\Debug\Task12.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\bin\Debug\Task12.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\obj\Debug\Task12.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\obj\Debug\Task12.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task12\obj\Debug\Task12.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\bin\Debug\Task12.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\obj\Debug\Task12.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\obj\Debug\Task12.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\bin\Debug\Task12.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\bin\Debug\Task12.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task12\obj\Debug\Task12.csprojResolveAssemblyReference.cache

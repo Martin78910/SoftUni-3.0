@@ -1,0 +1,1 @@
+SELECT COUNT(*) as Posts_Count from [Blog].[dbo].[Posts]

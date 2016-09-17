@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\9.LargestIncreasingSubsequence\bin\Debug\9.LargestIncreasingSubsequence.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\9.LargestIncreasingSubsequence\obj\Debug\9.LargestIncreasingSubsequence.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\9.LargestIncreasingSubsequence\obj\Debug\9.LargestIncreasingSubsequence.pdb

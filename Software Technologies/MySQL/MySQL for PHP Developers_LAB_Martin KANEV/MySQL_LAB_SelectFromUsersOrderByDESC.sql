@@ -1,0 +1,3 @@
+SELECT * FROM users
+ORDER BY fullname DESC
+LIMIT 3

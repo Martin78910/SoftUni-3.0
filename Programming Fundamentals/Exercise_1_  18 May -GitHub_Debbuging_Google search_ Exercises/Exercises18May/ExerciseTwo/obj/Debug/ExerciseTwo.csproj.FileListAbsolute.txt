@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseTwo\obj\Debug\ExerciseTwo.pdb

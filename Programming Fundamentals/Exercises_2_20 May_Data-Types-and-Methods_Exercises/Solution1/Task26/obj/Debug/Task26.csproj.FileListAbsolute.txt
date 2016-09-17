@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\bin\Debug\Task26.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\bin\Debug\Task26.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\bin\Debug\Task26.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\obj\Debug\Task26.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\obj\Debug\Task26.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task26\obj\Debug\Task26.csprojResolveAssemblyReference.cache

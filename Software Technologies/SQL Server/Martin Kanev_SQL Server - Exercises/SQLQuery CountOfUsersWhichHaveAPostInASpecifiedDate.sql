@@ -1,0 +1,1 @@
+SELECT COUNT(AuthorId)from [Blog].[dbo].[Posts] WHERE Date = ('2016-06-14') 

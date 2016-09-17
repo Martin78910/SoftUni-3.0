@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\4. Average Grades\bin\Debug\_4.Average_Grades.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\4. Average Grades\bin\Debug\_4.Average_Grades.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\4. Average Grades\bin\Debug\_4.Average_Grades.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\4. Average Grades\obj\Debug\_4.Average_Grades.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\4. Average Grades\obj\Debug\_4.Average_Grades.pdb

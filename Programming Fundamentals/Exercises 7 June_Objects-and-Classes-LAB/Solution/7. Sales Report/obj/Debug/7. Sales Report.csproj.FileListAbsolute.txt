@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\7. Sales Report\bin\Debug\_7.Sales_Report.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\7. Sales Report\bin\Debug\_7.Sales_Report.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\7. Sales Report\bin\Debug\_7.Sales_Report.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\7. Sales Report\obj\Debug\_7.Sales_Report.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\7. Sales Report\obj\Debug\_7.Sales_Report.pdb

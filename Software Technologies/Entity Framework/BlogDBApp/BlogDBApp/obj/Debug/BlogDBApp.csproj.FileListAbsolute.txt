@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\BlogDBApp.exe.config
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\obj\Debug\BlogDBApp.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\BlogDBApp.exe
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\BlogDBApp.pdb
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\EntityFramework.dll
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\EntityFramework.xml
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\obj\Debug\BlogDBApp.exe
+C:\Users\Martin\Desktop\Software Technologies\Entity Framework\BlogDBApp\BlogDBApp\obj\Debug\BlogDBApp.pdb

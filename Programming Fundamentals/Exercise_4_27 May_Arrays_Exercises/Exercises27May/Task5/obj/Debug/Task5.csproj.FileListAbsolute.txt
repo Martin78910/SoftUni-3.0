@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\bin\Debug\Task5.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\bin\Debug\Task5.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\bin\Debug\Task5.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\obj\Debug\Task5.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\obj\Debug\Task5.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache

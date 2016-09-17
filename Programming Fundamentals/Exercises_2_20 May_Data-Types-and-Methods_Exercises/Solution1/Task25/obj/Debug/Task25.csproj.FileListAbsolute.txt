@@ -1,0 +1,8 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task25\bin\Debug\Task25.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task25\bin\Debug\Task25.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task25\bin\Debug\Task25.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task25\obj\Debug\Task25.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May\Solution1\Task25\obj\Debug\Task25.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task25\bin\Debug\Task25.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task25\obj\Debug\Task25.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_2_20 May_Data-Types-and-Methods_Exercises\Solution1\Task25\obj\Debug\Task25.pdb

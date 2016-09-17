@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\obj\Debug\Exercise2Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercices_ lekciq\Exercise2Palindromes\bin\Debug\Exercise2Palindromes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\12.BombNumbers\bin\Debug\12.BombNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\12.BombNumbers\bin\Debug\12.BombNumbers.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\12.BombNumbers\bin\Debug\12.BombNumbers.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\12.BombNumbers\obj\Debug\12.BombNumbers.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\12.BombNumbers\obj\Debug\12.BombNumbers.pdb

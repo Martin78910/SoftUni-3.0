@@ -1,0 +1,1 @@
+DELETE FROM [Blog].[dbo].[Posts] WHERE Id =31

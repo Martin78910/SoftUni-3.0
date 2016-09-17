@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\10.ArrayManipulator\bin\Debug\10.ArrayManipulator.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\10.ArrayManipulator\obj\Debug\10.ArrayManipulator.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\10.ArrayManipulator\obj\Debug\10.ArrayManipulator.pdb

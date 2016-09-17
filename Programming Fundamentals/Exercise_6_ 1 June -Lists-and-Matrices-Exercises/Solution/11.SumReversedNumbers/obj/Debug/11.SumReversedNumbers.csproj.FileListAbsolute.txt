@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\11.SumReversedNumbers\bin\Debug\11.SumReversedNumbers.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_6_ 1 June -Lists-and-Matrices-Exercises\Solution\11.SumReversedNumbers\obj\Debug\11.SumReversedNumbers.pdb

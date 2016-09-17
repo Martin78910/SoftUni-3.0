@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\bin\Debug\Exercise7.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\bin\Debug\Exercise7.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\bin\Debug\Exercise7.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\obj\Debug\Exercise7.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\obj\Debug\Exercise7.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises_3 June-Strings-Dictionaries-Lambda-and-LINQ-Exercises\Solutions\Exercise7\obj\Debug\Exercise7.pdb

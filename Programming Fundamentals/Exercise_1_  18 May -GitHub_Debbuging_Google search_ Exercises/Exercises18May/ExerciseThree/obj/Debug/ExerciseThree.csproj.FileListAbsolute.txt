@@ -1,0 +1,11 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Usloviq\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_1_  18 May -GitHub_Debbuging_Google search_ Exercises\Exercises18May\ExerciseThree\obj\Debug\ExerciseThree.pdb

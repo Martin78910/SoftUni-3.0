@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task10\bin\Debug\Task10.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task10\bin\Debug\Task10.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task10\bin\Debug\Task10.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task10\obj\Debug\Task10.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercise_4_27 May_Arrays_Exercises\Exercises27May\Task10\obj\Debug\Task10.pdb

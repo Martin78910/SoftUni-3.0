@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\5. Closest Two Points\bin\Debug\_5.Closest_Two_Points.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\5. Closest Two Points\obj\Debug\_5.Closest_Two_Points.pdb

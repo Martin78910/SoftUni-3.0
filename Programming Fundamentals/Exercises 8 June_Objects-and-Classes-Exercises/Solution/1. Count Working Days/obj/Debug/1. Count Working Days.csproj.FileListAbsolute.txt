@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\bin\Debug\_1.Count_Working_Days.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\bin\Debug\_1.Count_Working_Days.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\obj\Debug\1. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\obj\Debug\_1.Count_Working_Days.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 8 June_Objects-and-Classes-Exercises\Solution\1. Count Working Days\obj\Debug\_1.Count_Working_Days.pdb

@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\bin\Debug\_2.RandomizeWords.exe.config
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\bin\Debug\_2.RandomizeWords.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\bin\Debug\_2.RandomizeWords.pdb
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\obj\Debug\2. RandomizeWords.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\obj\Debug\_2.RandomizeWords.exe
+C:\Users\Martin\Desktop\Programing Fundamentals\Exercises\Exercises 7 June_Objects-and-Classes-LAB\Solution\2. RandomizeWords\obj\Debug\_2.RandomizeWords.pdb
